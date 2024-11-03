@@ -9,9 +9,9 @@ Personal dotfiles for configuring **i3**, **neovim**, **kitty**, and some other 
    git clone https://github.com/yafet-a/dotfiles.git ~/dotfiles
 
 2. Install Stow
-# Debian/Ubuntu
+## Debian/Ubuntu
 sudo apt install stow
-# Arch Linux
+## Arch Linux
 sudo pacman -S stow
 
 
