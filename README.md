@@ -16,6 +16,7 @@ sudo pacman -S stow
 
 
 3. Run stow on selected configs
+```bash
 cd ~/dotfiles
 stow i3
 stow nvim
